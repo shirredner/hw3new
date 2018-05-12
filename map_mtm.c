@@ -21,6 +21,7 @@ struct Map_t {
     compareMapKeyElements comapareKey;
 };
 
+// comment
 Map mapCreate(copyMapDataElements copyDataElement, copyMapKeyElements copyKeyElement,
               freeMapDataElements freeDataElement, freeMapKeyElements freeKeyElement,
               compareMapKeyElements compareKeyElements) {
